@@ -17,3 +17,9 @@ JobFinder is a modern job search application designed using the **React.js** fra
 2. **Redux Toolkit**: Simplifies state management and reduces boilerplate code.
 3. **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 
+
+## Screenshots
+
+![Login Page](https://res.cloudinary.com/dciyhg0ue/image/upload/v1706076574/gitImage/p23hovwvzjpej7n9wcay.png)
+
+![Dashboard Page](https://res.cloudinary.com/dciyhg0ue/image/upload/v1706076771/gitImage/qhhvmsbtsu4mp4ita8m5.png)
