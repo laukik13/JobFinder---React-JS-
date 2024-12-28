@@ -20,6 +20,16 @@ JobFinder is a modern job search application designed using the **React.js** fra
 
 ## Screenshots
 
-![Login Page](https://res.cloudinary.com/dciyhg0ue/image/upload/v1706076574/gitImage/p23hovwvzjpej7n9wcay.png)
+![Login Page](https://res.cloudinary.com/dciyhg0ue/image/upload/v1735387946/gitImage/jxftisrvzzb5cfv0ai43.png)
 
-![Dashboard Page](https://res.cloudinary.com/dciyhg0ue/image/upload/v1706076771/gitImage/qhhvmsbtsu4mp4ita8m5.png)
+![Sign Up Page](https://res.cloudinary.com/dciyhg0ue/image/upload/v1735387945/gitImage/x8tqcy88wuljmkcreme1.png)
+
+![Home Page](https://res.cloudinary.com/dciyhg0ue/image/upload/v1735387945/gitImage/ucrv6tpi5ikdabqpxuqz.png)
+
+![Filter Page](https://res.cloudinary.com/dciyhg0ue/image/upload/v1735387945/gitImage/m2qiziutfc89ptx2vyth.png)
+
+![Profile Page](https://res.cloudinary.com/dciyhg0ue/image/upload/v1735387945/gitImage/flaa5s2xuverj9btqdar.png)
+
+![Dark Mode](https://res.cloudinary.com/dciyhg0ue/image/upload/v1735387945/gitImage/enislxlyodedyxv9wx2s.png)
+
+
